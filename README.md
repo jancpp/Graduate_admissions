@@ -4,6 +4,7 @@ EECS 738 - Machine learning
 
 Team members: Jan Polzer, Ryan Duckworth, Nishil Parmar, Rohan Choudhari, Kunal Karnik 
 
+
 ### Graduate admission prediction   
 
 Dataset: https://www.kaggle.com/mohansacharya/graduate-admissions/version/2 
@@ -19,6 +20,13 @@ Neural Network
 Multivariate Linear Regression  
 Ridge Regression  
 Negative Binomial Distribution  
+
+
+### Notebooks:  
+
+[Models and algorithms](https://github.com/jancpp/Graduate_admissions/blob/master/Graduate%20admissions.ipynb)   
+[Model comparison](https://github.com/jancpp/Graduate_admissions/blob/master/Comparison.ipynb)   
+[Minimum GRE scores](https://github.com/jancpp/Graduate_admissions/blob/master/Minimum%20GRE.ipynb)   
 
 
 ### References:
